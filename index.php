@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>Code for Canda</title>
+<title>Code for Canada</title>
 <!--[if IE]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -43,7 +43,7 @@
         <div id="content">
           <div id="logo"></div>
           <h1>Code for Canada</h1>
-          <p style="color: #ccc;text-align: center">Soon, sign up bellow for updates</p>
+          <p style="color: #ccc;text-align: center">Code for Canada is coming soon! Sign up below for updates.</p>
           <div>
               <!-- Begin MailChimp Signup Form -->
               <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
